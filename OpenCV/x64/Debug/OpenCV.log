@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\백업9\대학\시험대비\OpenCV\OpenCV\main.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\opencv.hpp': No such file or directory
